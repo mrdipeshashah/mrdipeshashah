@@ -1,5 +1,8 @@
 ## Hello, I'm Dipesh Shah 
 
+I am a Marketing Data Consultant, covering marketing tech, marketing data, marketing analytics and marketing measurement. I like to play with data which is very much my left side of my brain and my right side of my brain is my creative side and photography. 
+
+
 <!--
 I am a Marketing Data Consultant, covering marketing tech, marketing data, marketing analytics and marketing measurement. I like to play with data which is very much my left side of my brain and my right side of my brain is my creative side and photography. 
 **mrdipeshashah/mrdipeshashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
