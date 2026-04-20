@@ -1,6 +1,11 @@
 ## Hello, I'm Dipesh Shah 
 
-I am a Marketing Data Consultant, covering marketing tech, marketing data, marketing analytics and marketing measurement. I like to play with data which is very much my left side of my brain and my right side of my brain is my creative side and photography. 
+I am a Marketing Data Consultant, covering marketing tech + data + analytics + measurement. I like to play with data which is very much my left side of my brain and my right side of my brain is my creative side and photography. 
+
+Some of my most recent data projects I have worked: 
+
+Building a view of my DVD collection - https://github.com/mrdipeshashah/Big-Query-DVD-Collection
+Getting into sports analytics and building a model to work out who is the best test match batsmen movign away from test average to GOAT INDEX - https://github.com/mrdipeshashah/GOAT-INDEX-Modern-Era-Test-Batsmen
 
 
 <!--
