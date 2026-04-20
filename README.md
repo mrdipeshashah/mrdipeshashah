@@ -1,4 +1,4 @@
-## Hello, I'm Dipesh Shah 
+## Hello, I'm Dipesh Shah ✋🏽
 
 I am a Marketing Data Consultant, covering marketing tech + data + analytics + measurement. I like to play with data which is very much my left side of my brain and my right side of my brain is my creative side and photography. 
 
