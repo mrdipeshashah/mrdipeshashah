@@ -1,8 +1,5 @@
 <img width="2200" height="373" alt="ds-marketing-banner" src="https://github.com/user-attachments/assets/357d8fd1-e92b-4f02-8d4e-0894325f6f1e" />
 
-
-
-
 ## Hello, I'm Dipesh Shah
 
 I am a Marketing Data Consultant, covering marketing tech + data + analytics + measurement. I like to play with data which is very much my left side of my brain and my right side of my brain is my creative side and photography. 
