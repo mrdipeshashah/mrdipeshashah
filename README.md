@@ -5,7 +5,7 @@ I am a Marketing Data Consultant, covering marketing tech + data + analytics + m
 Some of my most recent data projects I have worked: 
 
 * Building a view of my DVD collection - https://github.com/mrdipeshashah/Big-Query-DVD-Collection
-* Getting into sports analytics and building a model to work out who is the best test match batsmen movign away from test average to GOAT INDEX - https://github.com/mrdipeshashah/GOAT-INDEX-Modern-Era-Test-Batsmen
+* Getting into sports analytics and building a model to work out who is the best test match batsmen moving away from test average to GOAT INDEX - https://github.com/mrdipeshashah/GOAT-INDEX-Modern-Era-Test-Batsmen
 
 
 <!--
