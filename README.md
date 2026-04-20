@@ -13,7 +13,7 @@ How to reach me:
 
 * Email: dipesh@dipeshshah.com 
 * LinkedIn: https://www.linkedin.com/in/mrdipeshashah/
-* Data Blog: www.dipeshshah.com 
+* Data Blog: dipeshshah.com 
 * Photo Blog: www.photos.dipeshshah.com
 
 
