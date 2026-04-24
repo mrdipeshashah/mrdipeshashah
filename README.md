@@ -4,7 +4,7 @@
 
 I am a Marketing Data Consultant, covering marketing tech + data + analytics + measurement. I like to play with data which is very much my left side of my brain and photography is my right side of my brain. 
 
-Some of my most recent data projects I have worked on: 
+My most recent data projects I have worked on: 
 
 * Building a view of my DVD collection - https://github.com/mrdipeshashah/Big-Query-DVD-Collection
 * Getting into sports analytics and building a model to work out who is the best test match batsmen moving away from test average to GOAT INDEX - https://github.com/mrdipeshashah/GOAT-INDEX-Modern-Era-Test-Batsmen
