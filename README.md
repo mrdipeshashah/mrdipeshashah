@@ -9,7 +9,7 @@ My most recent data projects I have worked on:
 * Building a view of my DVD collection - https://github.com/mrdipeshashah/Big-Query-DVD-Collection
 * Getting into sports analytics and building a model to work out who is the best test match batsmen moving away from test average to GOAT INDEX - https://github.com/mrdipeshashah/GOAT-INDEX-Modern-Era-Test-Batsmen
 * Building the Strategic Maturity Model to understand Lifetime Value - https://github.com/mrdipeshashah/Strategic-Maturity-Model
-* Modelling my health data from my Apple Watch to provide a more accurate view. Developed custom metrics to pwoer the dashboard to provide richer insights - https://github.com/mrdipeshashah/Apple-Watch-Health-Tracking-Data
+* Modelling my health data from my Apple Watch to provide a more accurate view. Developed custom metrics to power the dashboard to provide richer insights - https://github.com/mrdipeshashah/Apple-Watch-Health-Tracking-Data
 
 How to reach me: 
 
