@@ -6,7 +6,7 @@ I'm a Data Strategy Consultant with 15+ years of experience across data strategy
 
 I enjoy exploring how data can solve business problems, inform decision-making and create actionable insights. My projects span business analytics, data modelling, sports analytics and personal data.
 
-I use technologies including Google BigQuery, Google Sheets, Looker Studio, SQL and Python to turn data into practical applications and insights.
+I use technologies including Google BigQuery, Google Sheets, Data Studio, SQL and Python to turn data into practical applications and insights.
 
 ### Selected Data Projects
 
@@ -26,20 +26,3 @@ How to reach me:
 * LinkedIn: https://www.linkedin.com/in/mrdipeshashah/
 * Data Blog: www.dipeshshah.com 
 * Photo Blog: www.photos.dipeshshah.com
-
-
-<!--
-I am a Marketing Data Consultant, covering marketing tech, marketing data, marketing analytics and marketing measurement. I like to play with data which is very much my left side of my brain and my right side of my brain is my creative side and photography. 
-**mrdipeshashah/mrdipeshashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
