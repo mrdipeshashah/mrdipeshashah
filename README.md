@@ -2,14 +2,23 @@
 
 ## Hello, I'm Dipesh Shah
 
-I am a Marketing Data Consultant, covering marketing tech + data + analytics + measurement. I like to play with data which is very much my left side of my brain and photography is my right side of my brain. 
+I'm a Data Strategy Consultant with 15+ years of experience across data strategy, technology, analytics and measurement.
 
-My most recent data projects I have worked on: 
+I enjoy exploring how data can solve business problems, inform decision-making and create actionable insights. My projects span business analytics, data modelling, sports analytics and personal data.
 
-* Building a view of my DVD collection - https://github.com/mrdipeshashah/Big-Query-DVD-Collection
-* Getting into sports analytics and building a model to work out who is the best test match batsmen moving away from test average to GOAT INDEX - https://github.com/mrdipeshashah/GOAT-INDEX-Modern-Era-Test-Batsmen
-* Building the Strategic Maturity Model to understand Lifetime Value - https://github.com/mrdipeshashah/Strategic-Maturity-Model
-* Modelling my health data from my Apple Watch to provide a more accurate view. Developed custom metrics to power the dashboard to provide richer insights - https://github.com/mrdipeshashah/Apple-Watch-Health-Tracking-Data
+I use technologies including Google BigQuery, Google Sheets, Looker Studio, SQL and Python to turn data into practical applications and insights.
+
+### Selected Data Projects
+
+A selection of data projects exploring how data, analytics and technology can be applied to different problems
+
+- **DVD Collection Analytics:** Building a data-driven view of my DVD collection using BigQuery > [View project](https://github.com/mrdipeshashah/Big-Query-DVD-Collection)
+
+- **GOAT Index – Modern Era Test Batsmen:** Exploring sports analytics and developing a model to benchmark Test batsmen, moving beyond traditional batting averages to a broader performance index > [View project](https://github.com/mrdipeshashah/GOAT-INDEX-Modern-Era-Test-Batsmen)
+
+- **Strategic Maturity Model – Lifetime Value:** Developing a framework to explore customer lifetime value and business maturity > [View project](https://github.com/mrdipeshashah/Strategic-Maturity-Model)
+
+- **Apple Watch Health Analytics:** Modelling personal health data and developing custom metrics to provide a richer, more meaningful view of health and activity > [View project](https://github.com/mrdipeshashah/Apple-Watch-Health-Tracking-Data)
 
 How to reach me: 
 
