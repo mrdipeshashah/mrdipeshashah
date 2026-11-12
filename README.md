@@ -4,7 +4,7 @@
 
 I'm a Data Strategy Consultant with 15+ years of experience across data strategy, technology, analytics and measurement.
 
-I enjoy exploring how data can solve business problems, inform decision-making and create actionable insights. My projects span business analytics, data modelling, sports analytics and personal data.
+I enjoy exploring how data can solve business problems, inform decision-making and create actionable insights. My projects span business analytics, data modelling, sports analytics and personal health data.
 
 I use technologies including Google BigQuery, Google Sheets, Data Studio, SQL and Python to turn data into practical applications and insights.
 
